@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355588455460",
+    "firebase_url": "https://yatchalertapp-3c0e0.firebaseio.com",
+    "project_id": "yatchalertapp-3c0e0",
+    "storage_bucket": "yatchalertapp-3c0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355588455460:android:183083932e4ef9e0d82cb1",
+        "android_client_info": {
+          "package_name": "com.yachtalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355588455460-4gqpohhn3g55rsfsota0ej31nvb2krco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3HncNERdooN6WpzWNBNmDzuJHE1EpP8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355588455460-4gqpohhn3g55rsfsota0ej31nvb2krco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355588455460-36fl1o3ivipa07jj6qi60aslfsu0ji1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yachtalert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
